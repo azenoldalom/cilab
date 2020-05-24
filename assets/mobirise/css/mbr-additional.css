@@ -1131,29 +1131,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rZUQXzYVBe {
-  background: #ffffff;
-}
-.cid-rZUQXzYVBe .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rZUQXzYVBe .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rZUQXzYVBe figcaption {
-  position: relative;
-}
-.cid-rZUQXzYVBe figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rZUQXzYVBe .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rZJpjcBCsb {
   padding-top: 0px;
   padding-bottom: 0px;
