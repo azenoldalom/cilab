@@ -4407,3 +4407,20 @@ section.lazy-placeholder:after {
 .cid-rZKda2pTjF .mbr-section-btn {
   text-align: right;
 }
+.cid-s02lq4F6et {
+  background: linear-gradient(45deg, #232323, #73c647);
+}
+@media (min-width: 992px) {
+  .cid-s02lq4F6et .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s02lq4F6et .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-s02lq4F6et .mbr-text,
+.cid-s02lq4F6et .mbr-section-btn {
+  text-align: right;
+}
