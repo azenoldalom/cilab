@@ -4391,9 +4391,9 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-s02nN2at5I {
-  padding-top: 45px;
+  padding-top: 75px;
   padding-bottom: 30px;
-  background-color: #73c647;
+  background-color: #5b686b;
 }
 .cid-s02nN2at5I .line {
   background-color: #232323;
@@ -4404,6 +4404,7 @@ section.lazy-placeholder:after {
 }
 .cid-s02nN2at5I .section-text {
   padding: 2rem 0;
+  color: #cccccc;
 }
 .cid-s02nN2at5I .inner-container {
   margin: 0 auto;
