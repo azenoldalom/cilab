@@ -2901,6 +2901,9 @@ section.lazy-placeholder:after {
 .cid-s0e3C7tisf .mbr-section-subtitle {
   color: #767676;
 }
+.cid-s0e3C7tisf H2 {
+  color: #0f7699;
+}
 .cid-s0e035v6vd {
   background: #efefef;
   padding-top: 60px;
@@ -2952,6 +2955,10 @@ section.lazy-placeholder:after {
 .cid-s0egHTrkit .card-img span {
   font-size: 72px;
   color: #707070;
+}
+.cid-s0egHTrkit .card-title,
+.cid-s0egHTrkit .card-img {
+  color: #0f7699;
 }
 .cid-s0dNJ5akt6 {
   padding-top: 30px;
