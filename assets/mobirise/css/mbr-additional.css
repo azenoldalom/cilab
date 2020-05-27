@@ -2933,16 +2933,25 @@ section.lazy-placeholder:after {
 .cid-s0dXBpB4cX blockquote {
   color: #767676;
 }
-.cid-s0dSS9snAq {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-s0egHTrkit {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-s0dSS9snAq .mbr-text {
-  color: #0f7699;
+.cid-s0egHTrkit h4 {
+  text-align: left;
+  font-weight: 500;
 }
-.cid-s0dSS9snAq .mbr-text p {
-  background: #b2ccd2;
+.cid-s0egHTrkit p {
+  color: #767676;
+  text-align: left;
+}
+.cid-s0egHTrkit .card-img {
+  text-align: left;
+}
+.cid-s0egHTrkit .card-img span {
+  font-size: 72px;
+  color: #707070;
 }
 .cid-s0dNJ5akt6 {
   padding-top: 30px;
