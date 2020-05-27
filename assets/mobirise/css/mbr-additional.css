@@ -2899,10 +2899,10 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-s0e035v6vd {
-  background: #149dcc;
+  background: #efefef;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
+  background: linear-gradient(0deg, #efefef, #5b686b);
 }
 .cid-s0e035v6vd .video-block {
   margin: auto;
