@@ -2893,10 +2893,13 @@ section.lazy-placeholder:after {
 .cid-s02UJtpbNS .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-s0dZAbZuut {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-image: url("../../../assets/images/background4.jpg");
+.cid-s0e3C7tisf {
+  padding-top: 105px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s0e3C7tisf .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-s0e035v6vd {
   background: #efefef;
