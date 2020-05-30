@@ -5977,6 +5977,11 @@ section.lazy-placeholder:after {
 .cid-s0oJhUf82t .card-img {
   color: #0f7699;
 }
+.cid-s0urhJGzmu {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
 .cid-s0phpPciFi {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -5987,6 +5992,20 @@ section.lazy-placeholder:after {
 }
 .cid-s0phpPciFi H2 {
   color: #0f7699;
+}
+.cid-s0uDjWAUjO {
+  background: #efefef;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #efefef, #5b686b);
+}
+.cid-s0uDjWAUjO .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s0uDjWAUjO .video-block {
+    width: 100% !important;
+  }
 }
 .cid-s0oJhZAFm1 {
   padding-top: 30px;
