@@ -6207,6 +6207,11 @@ section.lazy-placeholder:after {
 .cid-s0oJhNCUrb H2 {
   color: #0f7699;
 }
+.cid-s0urhJGzmu {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
 .cid-s0oJhPfhmW {
   background: #efefef;
   padding-top: 60px;
@@ -6318,11 +6323,6 @@ section.lazy-placeholder:after {
 .cid-s0oJhUf82t .card-title,
 .cid-s0oJhUf82t .card-img {
   color: #0f7699;
-}
-.cid-s0urhJGzmu {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
 }
 .cid-s0phpPciFi {
   padding-top: 60px;
@@ -7166,27 +7166,6 @@ section.lazy-placeholder:after {
 }
 .cid-s0uLyyHH6B .mbr-text {
   text-align: left;
-}
-.cid-s0uNEYsJWC {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s0uNEYsJWC .title {
-  margin-bottom: 2rem;
-}
-.cid-s0uNEYsJWC .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s0uNEYsJWC a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-s0uNEYsJWC a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-s0uNEYsJWC textarea.form-control {
-  min-height: 188px;
 }
 .cid-s0vWXDXDDy {
   padding-top: 15px;
