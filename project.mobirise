@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CILIA",
-    "currentPage": "CILIA.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -7327,7 +7327,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Two-photon microscopy</b> uses intense pulsed infrared laser to image deep into biological sample. It can be used for imaging thick tissue specimens or even imaging deep inside live animals.</span></p><p><span style=\"font-style: normal;\"><b>Note</b>: This microscope is an instrument of the Institute of Biophysics \n</span><span style=\"font-style: normal; font-size: 1.09rem;\">operated by the Neurovascular Unit Research Group. Please contact Dr.&nbsp;</span><span style=\"font-style: normal; font-size: 1.09rem;\">Krizbai Istvan if you would like to use this microscope.&nbsp;</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Two-photon microscopy</b> uses intense pulsed infrared laser to image deep into biological sample. It can be used for imaging thick tissue specimens or even imaging deep inside live animals.</span></p><p><span style=\"font-style: normal;\"><b>Note</b>: This microscope is an instrument of the Institute of Biophysics \n</span><span style=\"font-style: normal; font-size: 1.09rem;\">operated by the Neurovascular Unit Research Group. Please contact Dr. István K</span><span style=\"font-style: normal; font-size: 1.09rem;\">rizbai if you would like to use this microscope.&nbsp;</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s0vk1LWZGF",
           "_anchor": "content2-2x",
           "_protectedParams": [],
